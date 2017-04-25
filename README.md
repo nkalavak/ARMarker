@@ -4,4 +4,4 @@ Project to demonstrate a use of Augmented Reality, implemented on a standard web
 
 OUTPUT:
 
-![Alt text] (https://raw.github.com/nkalavak/VuforiaProject1/blob/master/Capture21.jpg)
+![Settings Window] (https://raw.github.com/nkalavak/VuforiaProject1/blob/master/Capture21.jpg)
