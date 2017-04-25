@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/VuforiaARApp.unity
+  isLoaded: 1
+  isActive: 1
